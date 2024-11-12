@@ -1,0 +1,14 @@
+C:\Users\Lakshmi Vivek\source\repos\area of object\bin\Debug\net8.0\area of object.exe
+C:\Users\Lakshmi Vivek\source\repos\area of object\bin\Debug\net8.0\area of object.deps.json
+C:\Users\Lakshmi Vivek\source\repos\area of object\bin\Debug\net8.0\area of object.runtimeconfig.json
+C:\Users\Lakshmi Vivek\source\repos\area of object\bin\Debug\net8.0\area of object.dll
+C:\Users\Lakshmi Vivek\source\repos\area of object\bin\Debug\net8.0\area of object.pdb
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.AssemblyInfoInputs.cache
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.AssemblyInfo.cs
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.dll
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\refint\area of object.dll
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.pdb
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\area of object.genruntimeconfig.cache
+C:\Users\Lakshmi Vivek\source\repos\area of object\obj\Debug\net8.0\ref\area of object.dll

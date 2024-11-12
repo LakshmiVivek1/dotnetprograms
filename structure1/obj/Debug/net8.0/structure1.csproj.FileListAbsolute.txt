@@ -1,0 +1,14 @@
+C:\Users\Lakshmi Vivek\source\repos\structure1\bin\Debug\net8.0\structure1.exe
+C:\Users\Lakshmi Vivek\source\repos\structure1\bin\Debug\net8.0\structure1.deps.json
+C:\Users\Lakshmi Vivek\source\repos\structure1\bin\Debug\net8.0\structure1.runtimeconfig.json
+C:\Users\Lakshmi Vivek\source\repos\structure1\bin\Debug\net8.0\structure1.dll
+C:\Users\Lakshmi Vivek\source\repos\structure1\bin\Debug\net8.0\structure1.pdb
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.AssemblyInfoInputs.cache
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.AssemblyInfo.cs
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.dll
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\refint\structure1.dll
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.pdb
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\structure1.genruntimeconfig.cache
+C:\Users\Lakshmi Vivek\source\repos\structure1\obj\Debug\net8.0\ref\structure1.dll

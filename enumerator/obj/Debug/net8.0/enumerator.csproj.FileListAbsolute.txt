@@ -1,0 +1,14 @@
+C:\Users\Lakshmi Vivek\source\repos\enumerator\bin\Debug\net8.0\enumerator.exe
+C:\Users\Lakshmi Vivek\source\repos\enumerator\bin\Debug\net8.0\enumerator.deps.json
+C:\Users\Lakshmi Vivek\source\repos\enumerator\bin\Debug\net8.0\enumerator.runtimeconfig.json
+C:\Users\Lakshmi Vivek\source\repos\enumerator\bin\Debug\net8.0\enumerator.dll
+C:\Users\Lakshmi Vivek\source\repos\enumerator\bin\Debug\net8.0\enumerator.pdb
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.AssemblyInfoInputs.cache
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.AssemblyInfo.cs
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.dll
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\refint\enumerator.dll
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.pdb
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\enumerator.genruntimeconfig.cache
+C:\Users\Lakshmi Vivek\source\repos\enumerator\obj\Debug\net8.0\ref\enumerator.dll
